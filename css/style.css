@@ -23,18 +23,19 @@
     .col-12 {width: 100%;}
     }
     header{
-    font-size: 400%;
-    width: 100%;
+    
+    width: auto;
     height: auto;
-    background-image: url(../img/leiderdorp.jpg);
-    background-size: 100%;
-    background-repeat: repeat-y;
+    background-image: url(../img/Leiderdorp4.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
     }
     .lijst{
         font-size: 150%;
         color: blue;
     }
     #ld{
+        font-size: 1000%;
         margin-left: 35%;
         padding-top: 10%;
         color: blue;
@@ -45,10 +46,11 @@
         background-color: rgb(145, 233, 233);
         color: blue;
     }
-    img{
+    .img1{
         width: 20%;
         height: auto;
         float: right;
         border-style: double;
         border-radius: 3%;
     }
+   
