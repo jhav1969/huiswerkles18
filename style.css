@@ -1,0 +1,64 @@
+#inhoud{
+    margin-top: 20px;
+    }
+    [class*="col-"] {
+    width: 100%;
+    }
+    @media only screen and (min-width: 768px) {
+    [class*="col-"] {
+    float: left;
+    background-color: azure;
+    }
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+    }
+    header{
+    font-family: fantasy;
+    width: auto;
+    height: auto;
+    background-image: url(../img/Leiderdorp4.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    }
+    footer{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        width: 100%;
+        height: auto;
+    background-color: rgb(184, 176, 221);
+    }
+    .lijst{
+        padding: 2%;
+        font-size: 150%;
+        font-size: auto;
+        color: blue;
+    }
+    .ld{
+        
+        margin-left: 35%;
+        color: blue;
+    }
+    .at{
+        padding: 2%;
+        font-size: 150%;
+        background-color: rgb(145, 233, 233);
+        color: blue;
+    }
+    .img1{
+        width: 20%;
+        height: auto;
+        float: right;
+        border-style: double;
+        border-radius: 3%;
+    }
+    
+   
