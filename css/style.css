@@ -23,24 +23,32 @@
     .col-12 {width: 100%;}
     }
     header{
+    font-family: fantasy;
     width: auto;
     height: auto;
     background-image: url(../img/Leiderdorp4.jpg);
     background-repeat: no-repeat;
     background-size: auto;
     }
+    footer{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        width: 100%;
+        height: auto;
+    background-color: rgb(184, 176, 221);
+    }
     .lijst{
+        padding: 2%;
         font-size: 150%;
+        font-size: auto;
         color: blue;
     }
-    #ld{
-        font-size: 100%;
+    .ld{
+        
         margin-left: 35%;
-        padding-top: 10%;
         color: blue;
     }
     .at{
-        padding: 5%;
+        padding: 2%;
         font-size: 150%;
         background-color: rgb(145, 233, 233);
         color: blue;
@@ -52,4 +60,5 @@
         border-style: double;
         border-radius: 3%;
     }
+    
    
