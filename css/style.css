@@ -7,7 +7,7 @@
     @media only screen and (min-width: 768px) {
     [class*="col-"] {
     float: left;
-    padding: 15px;
+    background-color: azure;
     }
     .col-1 {width: 8.33%;}
     .col-2 {width: 16.66%;}
@@ -31,7 +31,7 @@
     background-size: auto;
     }
     footer{
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         width: 100%;
         height: auto;
     background-color: rgb(184, 176, 221);
@@ -39,12 +39,12 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     .lijst{
         padding: 2%;
         font-size: 150%;
-        font-size: auto;
+
         color: blue;
     }
     .ld{
         
-        margin-left: 35%;
+        margin-left: 25%;
         color: blue;
     }
     .at{
@@ -60,5 +60,6 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         border-style: double;
         border-radius: 3%;
     }
+   
     
    
